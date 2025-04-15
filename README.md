@@ -22,7 +22,7 @@ Un proyecto interactivo que muestra una galería de imágenes de Spider-Man con 
    ```
 2. Navega al directorio del proyecto:
    ```bash
-   cd spider-gallery
+   cd spider-man
    ```
 3. Abre `index.html` en tu navegador preferido.
 
