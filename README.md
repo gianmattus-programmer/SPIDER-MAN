@@ -18,7 +18,7 @@ Un proyecto interactivo que muestra una galería de imágenes de Spider-Man con 
 ## 🚀 Instalación y Uso
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/gianmattus-programmer/spider-gallery.git
+   git clone https://github.com/gianmattus-programmer/spider-man.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
